@@ -1,0 +1,2 @@
+$nomention
+🏓 | Seu ping está em `$ping` ms.

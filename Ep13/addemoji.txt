@@ -1,0 +1,15 @@
+$nomention
+$suppressErrors
+$argsCheck[>1;:X_: | Adicione um emoji com **yt!addemoji 'seu emoji'**]
+$description[👤 **Autor**: <@$authorID>
+😝 **Emoji adicionado**: $message[1]
+$addEmoji[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$replaceText[$message[1];:;;2]1;1;;8]2;2;;8]3;3;;8]4;4;;8]5;5;;8]6;6;;8]7;7;;8]8;8;;8]9;9;;8]0;0;;8]<;<;;8]>;>;;8];$textSplit[$message[1];:]
+https://cdn.discordapp.com/emojis/$replaceText[$splitText[3];>;;1].$replaceText[$replaceText[*$splitText[1]*;*<*;png;1];*<a*;gif;1];no]]
+$addTimestamp
+$footerIcon[$authorAvatar]
+$footer[$username]
+$addTimestamp
+$color[FF0000]
+$title[👑 | Emoji adicionado]
+$thumbnail[$serverIcon]
+$onlyAdmin[:X_: | Você precisa da permissão de **ADMINISTRADOR** para executar este comando!]

@@ -1,0 +1,4 @@
+$nomention
+$modifyChannelPerms[$channelID;+sendmessages;$guildID]
+🔓 |  <@$authorID> O canal foi destrancado com sucesso! Utilize `yt!lock` para trancar o canal!
+$onlyAdmin[:x: | <@$authorID> Você precisa ter a permissão de `Administrador` para utilizar este comando!]

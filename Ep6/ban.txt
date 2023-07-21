@@ -1,0 +1,14 @@
+$nomention
+$suppressErrors[❌ | Mencione alguém para banir!]
+<@$authorID>
+$title[🔨 Banimento 🔨]
+$color[ff0000]
+$onlyAdmin[❌ | Você não possui permissão de `Banir Membros`!]
+$description[➯ Você baniu: <@$mentioned[<]>
+➯ Banido por: <@$authorID>
+➯ Motivo: $noMentionMessage]
+$ban[reason]
+$allowMention
+$footer[$username]
+$footerIcon[$authorAvatar]
+$addTimestamp

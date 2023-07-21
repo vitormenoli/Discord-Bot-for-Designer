@@ -1,0 +1,2 @@
+$nomention
+🏁 | Olá <@$authorID>! Sou o `NomeDoBot`, meu prefixo é `SeuPrefixo`, para ver meus comando, utilize `PREFIXOhelp`!

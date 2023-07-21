@@ -1,0 +1,7 @@
+$nomention
+$color[ff0000]
+$argsCheck[>1;❌ | <@$authorID> Mencione alguém para baijar!]
+$description[💖$username Deu um beijo em <@$mentioned[1]>💖]
+$image[$randomText[https://i.pinimg.com/originals/6f/c2/5f/6fc25fdd3e22d89b19c3ea76d11789e6.gif;https://cdn.discordapp.com/attachments/812060994427027477/812070007907156008/b13d63b3779a874afacc0838729ed80b.gif;https://cdn.discordapp.com/attachments/812060994427027477/812069749399355412/e0ep0v3.gif]]
+$footer[💖 Beijo 💖]
+$addReactions[😘;🤮]

@@ -1,0 +1,14 @@
+$onlyAdmin[❌ | Você não possui a permissão de `Banir Membros`!]
+$suppressErrors[❌ | Não foi possível desbanir o usuário!]
+$allowMention
+$unban
+$unbanID
+$title[🙌 DESBANIDO(A) 🙌]
+$description[➯ Desbanido: <@$message>
+➯ Desbanido por: <@$authorID>
+➯ ID: `$message`]
+$argsCheck[>1;❌ Utilize o ID de um usuário para desbanir!]
+$color[ff0000]
+$footer[$username]
+$footerIcon[$authorAvatar]
+$addTimestamp

@@ -1,0 +1,7 @@
+$nomention
+$color[ff0000]
+$argsCheck[>1;❌ | <@$authorID> Mencione alguém para dar um tapa!]
+$description[🤬$username Deu um tapa em <@$mentioned[1]>🤬]
+$image[$randomText[https://cdn.discordapp.com/attachments/812060994427027477/812071765441249370/Red_Eye_Deku.gif;https://cdn.discordapp.com/attachments/812060994427027477/812071850904518696/Konoha_Da_Zuera2.gif;https://cdn.discordapp.com/attachments/812060994427027477/812071988612300800/bceebfa72d3a5933cb0e9cf319bb67ae.gif;https://cdn.discordapp.com/attachments/812060994427027477/812072062280531988/Yuru_Yuri_Slap_GIF_-_Find__Share_on_GIPHY.gif]]
+$footer[😡 Tapa 😡]
+$addReactions[🤚;💩]

@@ -1,0 +1,7 @@
+$nomention
+$argsCheck[>1;Ops! Escreva apenas números entre 2-100]
+💬 | <@$authorID> Limpou `$noMentionMessage` mensagens do chat!
+$onlyAdmin[Você precisa de permissão para utilizar este comando!]
+$deletecommand
+$clear
+$deleteIn[5s]

@@ -1,0 +1,13 @@
+$nomention
+$onlyIf[$message[1]!=;:x: ID inválido!]
+$onlyPerms[manageserver;:x: Você precisa da permissão de GERENCIAR SERVIDOR para utilizar este comando!]
+$onlyIf[$getUserVar[gw1;$serverOwner]!=0;:x: Este sorteio já foi encerrado! Sorteie algo novo com yt!sorteio.]
+$onlyIf[$checkContains[$getBotInvite;client_id=$getMessage[$channelID;$message[1];authorID]]==true;:x: Este não é um sorteio criado por um bot!]
+🥳 O usuário $replaceText[$replaceText[`$replaceText[$replaceText[%$checkCondition[$randomText[$joinSplitText[;]]==]%;%true%;$'randomText[$joinSplitText[;]];1];%false%;$randomText[$joinSplitText[;]];1]`;``;$username[$authorID]#$discriminator[$authorID];1];` `;$username[$authorID]#$discriminator[$authorID];1] ganhou o sorteio: $replaceText[$replaceText[`$getUserVar[gw1;$serverOwner]`!;``!;`unknown :(`;1];` `!;`unknown :(`;1]
+$setUserVar[gw1;0;$serverOwner]
+$setUserVar[gw2;$replaceText[$replaceText[%$checkCondition[$randomText[$joinSplitText[;]]==]%;%true%;$'randomText[$joinSplitText[;]];1];%false%;$randomText[$joinSplitText[;]];1];$serverOwner]
+$textSplit[$getReactions[$channelID;$message[1];+;🎉];+]
+$suppressErrors[:x: O ID enviado não é de um sorteio feito por mim ou apenas não é um sorteio! Utilize o ID da mensagem enviado do sorteio pelo bot!]
+$varExistError[gw1;Come on, add the "gw1" variable with value "0" and all in lowercase! i said it 100 times, join here for more detailed help: https://discord.gg/GfUYzXnA]
+$varExistError[gw2;Come on, add the "gw2" variable with value "0" and all in lowercase! i said it 100 times, join here for more detailed help: https://discord.gg/GfUYzXnA]
+$varExistError[gw3;Come on, add the "gw3" variable with value "0" and all in lowercase! i said it 100 times, join here for more detailed help: https://discord.gg/GfUYzXnA]

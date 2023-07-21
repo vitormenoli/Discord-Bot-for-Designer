@@ -1,0 +1,12 @@
+$nomention
+$title[🌞 | AJUDANDO `$username`]
+$description[ Atualmente tenho `$commandsCount` comandos! Veja todos eles a seguir:
+1⃣ | Ping: `yt!ping`
+2⃣ | Clear: `yt!clear "2-100"`
+3⃣ | Serverinfo: `yt!serverinfo`
+4⃣ | Userinfo: `yt!userinfo @menção`]
+$footer[Por: $username]
+$footerIcon[$authorAvatar]
+$addTimestamp
+$color[FF0000]
+$thumbnail[$authorAvatar]

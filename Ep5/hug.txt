@@ -1,0 +1,7 @@
+$nomention
+$color[ff0000]
+$argsCheck[>1;❌ | <@$authorID> Mencione alguém para dar um abraço!]
+$description[😊$username Deu um abraço em <@$mentioned[1]>😊]
+$image[$randomText[https://cdn.discordapp.com/attachments/812060994427027477/812072540074934282/I_Love_You_Hug_GIF_by_Funimation_-_Find__Share_on_GIPHY.gif;https://cdn.discordapp.com/attachments/812060994427027477/812072620249186314/Naofumi_Iwatani_Tate_No_Yuusha_No_Nariagari_GIF_-_NaofumiIwatani_TateNoYuushaNoNariagari_TheRisingOf.gif;https://cdn.discordapp.com/attachments/812060994427027477/812072799069143090/a8f2f612ab90fec87a14e4266d04b812.gif;https://cdn.discordapp.com/attachments/812060994427027477/812072878996062239/Sakurasou_no_Pet_na_Kanojo_-_GIFs.gif;https://cdn.discordapp.com/attachments/812060994427027477/812072913330110534/56c73f380d3ad747ff0600eb7ea1bbc7.gif;https://cdn.discordapp.com/attachments/812060994427027477/812072849501716500/495da3253424973e0658c4ebecc2b1dc.gif]]
+$footer[🤩 Abraço 🤩]
+$addReactions[😳;😵]

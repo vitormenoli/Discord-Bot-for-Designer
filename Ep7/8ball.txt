@@ -1,0 +1,3 @@
+$nomention
+$argsCheck[>1;❌ Faça uma pergunta de sim ou não!]
+👻 <@$authorID> Resposta: `$randomText[Sim!;Não!;Óbvio;Sla;Não faço ideia!;Pergunta isso pra sua professora;Acho que não!]`

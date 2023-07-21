@@ -1,0 +1,6 @@
+$nomention
+$suppressErrors[:X_: | Utilize `yt!slowmode  <tempo>`]
+$onlyAdmin[:X_: | Apenas administradores pode utilizar este comando!]
+$slowmode[$channelID;$message]
+$description[:staffdodiscord: Slowmode Ativado! Tempo: `$message`]
+$color[FF0000]

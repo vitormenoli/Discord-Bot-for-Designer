@@ -1,0 +1,20 @@
+$suppressErrors[Mencione alguém para ver as informações!]
+$title[🔰 | Userinfo de `$message`]
+
+$userInfo[
+ﾠ
+🔥 **TAG do discord**
+ﾠﾠﾠ`{username}#{discriminator}`
+🎇 **ID do discord**
+ﾠﾠﾠ`{ID}`
+🤖 **É um bot?**
+ﾠﾠﾠ`{BOT}`
+📅 **Data de criação**
+ﾠﾠﾠ`$creationDate[$mentioned[1]]`
+🔮 **Menção do usuário**
+ﾠﾠﾠ<@{ID}>
+]
+$footer[$username]
+$footerIcon[$authorAvatar]
+$addTimestamp
+$color[ff0000]

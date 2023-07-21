@@ -1,0 +1,16 @@
+$nomention
+<@$authorID>
+$thumbnail[$serverIcon]
+$title[💎 | Nome: `$serverName[$guildID]`]
+$description[
+👑 Dono: `$username[$serverOwner]#$discriminator[$serverOwner]`
+🆔 ID: `$guildID`
+🌎 Região: `$serverRegion`
+🤷‍♂️ Membros: `$membersCount` 
+✅ Verificação: `$serverVerificationLvl`
+🌠 Total de cargos: `$roleCount`
+]
+$addTimestamp
+$footer[$username]
+$footerIcon[$authorAvatar]
+$color[ff0000]

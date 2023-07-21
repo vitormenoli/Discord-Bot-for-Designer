@@ -1,0 +1,10 @@
+$nomention
+$suppressErrors[❌ | Mencione alguém para ver o avatar!]
+<@$authorID>
+$argsCheck[>1;❌ | Mencione alguém para ver o avatar!]
+$title[👑 | Avatar de `$message`]
+$color[ff0000]
+$image[$userAvatar[$mentioned[<]]]
+$footerIcon[$authorAvatar]
+$footer[$username]
+$addTimestamp
